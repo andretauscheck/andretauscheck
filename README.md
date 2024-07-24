@@ -1,0 +1,5 @@
+- Olá , me chamo André Francisco Tauscheck
+- Cursando Faculdade Unicessumar EAD
+- Curso : Análise e Desenvolvimento de Sistemas
+- Cursando : Inglês na escola de idiomas KNN
+- Cursando : HTML , CSS E JAVASCRIPT na Udemy
